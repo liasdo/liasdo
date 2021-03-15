@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liasdo
 - 👀 I’m interested in Pentest，CTF
-- 🌱 I’m currently Trojan free to kill 
+- 🌱 I’m currently learnning trojan free to kill 
 - 📫 liasdo@icloud.com
 
 <!---
